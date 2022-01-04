@@ -1,5 +1,5 @@
 
-### <center>Hi there :rabbit::cherry_blossom:</center>
+### <center>:rabbit::cherry_blossom:</center>
 
 
 
