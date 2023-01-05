@@ -1,6 +1,6 @@
 ### Android Developer
 
-[프로젝트]  
+[Android 프로젝트]  
 [LiD - 주류 테이스팅 노트 앱](https://github.com/zzoaJW/Lid)  
 [Anzagaza - 지하철 환승 및 하차 앱](https://github.com/zzoaJW/Anzagaza)  
 CATCHA 무인판매점 도난 탐지 앱  
