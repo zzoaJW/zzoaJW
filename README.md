@@ -2,7 +2,7 @@
 
 [프로젝트]  
 [Lid](https://github.com/zzoaJW/Lid)  
-Anzagaza  
+[Anzagaza](https://github.com/zzoaJW/Anzagaza)  
 CATCHA  
 TRAPLO  
 
