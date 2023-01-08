@@ -12,7 +12,7 @@ TRAPLO - 플로깅 여행 코스 공유 앱
 [[Android 개인 스터디] Firebase 공부 기록](https://github.com/zzoaJW/FbTest)  
 [[Android 개인 스터디] WebView 기능 공부 기록](https://github.com/zzoaJW/WebViewTest)  
 [[Android 개인 스터디] Lottie 라이브러리 공부 기록](https://github.com/zzoaJW/LottieTest)  
-[[Android] AdMob 사용법 - 배너](https://blog.naver.com/zoooa16/222978704404)  
+[[Android 개인 스터디] AdMob 사용법 - 배너](https://blog.naver.com/zoooa16/222978704404)  
 [[Jandy-SeoulTech] Clean Code 책 스터디](https://github.com/Jandy-SeoulTech/Clean_Code_Study)  
 
 
