@@ -18,7 +18,7 @@ TRAPLO - 플로깅 여행 코스 공유 앱
 [[Jandy-SeoulTech] Clean Code 책 스터디](https://github.com/Jandy-SeoulTech/Clean_Code_Study)  
 
 [강의]  
-[[React] 코딩애플 리액트 강의 (1) - Blog](https://github.com/zzoaJW/cablog)
+[[React] 코딩애플 리액트 강의 (1) - Blog](https://github.com/zzoaJW/cablog)  
 [[React] 코딩애플 리액트 강의 (2) - Shopping mall](https://github.com/zzoaJW/cashop)
 
 
