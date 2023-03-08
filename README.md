@@ -16,7 +16,7 @@ TRAPLO - 플로깅 여행 코스 공유 앱
 [[Android 개인 스터디] AdMob 공부 기록](https://blog.naver.com/zoooa16/222978704404)  
 [[Android 개인 스터디] 지도 라이브러리 공부 기록](https://github.com/zzoaJW/MapTest)  
 [[Android 개인 스터디] Jetpack Compose 공부 기록](https://github.com/zzoaJW/ComposeTest)  
-[[Android 개인 스터디] Navigation 공부 기록](https://github.com/zzoaJW/NavigationTest)
+[[Android 개인 스터디] Navigation 공부 기록](https://github.com/zzoaJW/NavigationTest)  
 [[Jandy-SeoulTech] Clean Code 책 스터디](https://github.com/Jandy-SeoulTech/Clean_Code_Study)  
 
 [강의]  
