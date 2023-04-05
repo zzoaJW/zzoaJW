@@ -5,10 +5,10 @@
 [Anzagaza - 지하철 환승 및 하차 앱](https://github.com/zzoaJW/Anzagaza)  
 [CATCHA - 무인판매점 도난 탐지 앱](https://blog.naver.com/zoooa16/222910734173)  
 TRAPLO - 플로깅 여행 코스 공유 앱  
-
+<!--
 [React 프로젝트]  
 [DiL - 술 추천 웹앱](https://github.com/zzoaJW/Dil)  
-
+-->
 [스터디]  
 [[Android 개인 스터디] MVVM 패턴 공부 기록](https://github.com/zzoaJW/MvvmTest)  
 [[Android 개인 스터디] 로컬 Push 알림 기능 공부 기록](https://github.com/zzoaJW/PushAlarmTest)  
