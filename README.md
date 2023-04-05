@@ -7,7 +7,7 @@
 TRAPLO - 플로깅 여행 코스 공유 앱  
 
 [React 프로젝트]  
-[DOGAJU - 목소리 변조 웹앱](https://github.com/zzoaJW/dogaju)  
+[DiL - 술 추천 웹앱]([https://github.com/zzoaJW/dogaju](https://github.com/zzoaJW/Dil))  
 
 [스터디]  
 [[Android 개인 스터디] MVVM 패턴 공부 기록](https://github.com/zzoaJW/MvvmTest)  
